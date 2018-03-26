@@ -9,6 +9,6 @@ Create database of faces and train the recognizer to identify each face.
 4. database_trainer: To train the recognization on databse
 5. dataset_recognizer: To recognze the person
 
-For creating new dataset for new people just follow the same steps it will automatically add the new persons data in datast.
+For creating new database for new people just follow the same steps it will automatically add the new persons data in database.
 
 
